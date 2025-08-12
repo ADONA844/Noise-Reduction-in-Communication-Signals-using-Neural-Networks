@@ -3,6 +3,7 @@ The objective is to take a noisy signal, process it using the trained neural net
 
 
 **Project Goals**
+
 1.Develop a neural network model for noise reduction in communication signals.<br>
 2.Input: Noisy signal.<br>
 3.Output: Noise-reduced signal.<br>
